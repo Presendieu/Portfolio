@@ -26,7 +26,7 @@ Bienvenue sur mon portfolio GitHub ! Ce dépôt contient le code source de mon p
 
 Ce portfolio est une page web statique construite en utilisant HTML, CSS et JavaScript. Il utilise également des bibliothèques externes telles que Particle.js pour les effets de particules en arrière-plan et Sweet Scroll pour la navigation fluide.
 
-![Aperçu du Portfolio](./assets/img/screenshot.png)
+
 
 ## Contenu
 
@@ -49,7 +49,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce portf
 
 ## Contact
 
-Pour toute question ou proposition de collaboration, vous pouvez me contacter par e-mail à (mailto:olandopresendieu190@gmail.com).
+Pour toute question ou proposition de collaboration, vous pouvez me contacter par e-mail à (olandopresendieu190@gmail.com).
 
 Merci d'avoir visité mon portfolio !
 
