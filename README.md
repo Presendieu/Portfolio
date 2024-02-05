@@ -6,8 +6,6 @@ Bienvenue sur mon portfolio GitHub ! Ce dépôt contient le code source de mon p
 
 Ce portfolio est une page web statique construite en utilisant HTML, CSS et JavaScript. Il utilise également des bibliothèques externes telles que Particle.js pour les effets de particules en arrière-plan et Sweet Scroll pour la navigation fluide.
 
-
-
 ## Contenu
 
 - **À propos de moi** : Une brève introduction sur moi-même, mes études et mes compétences.
